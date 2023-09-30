@@ -1,0 +1,68 @@
+D:\ASP.Net\Angular\Angular API\employee\Employee.Model\bin\Debug\net7.0\Employee.Model.deps.json
+D:\ASP.Net\Angular\Angular API\employee\Employee.Model\bin\Debug\net7.0\Employee.Model.dll
+D:\ASP.Net\Angular\Angular API\employee\Employee.Model\bin\Debug\net7.0\Employee.Model.pdb
+D:\ASP.Net\Angular\Angular API\employee\Employee.Model\bin\Debug\net7.0\Employee.Shared.dll
+D:\ASP.Net\Angular\Angular API\employee\Employee.Model\bin\Debug\net7.0\Employee.Shared.pdb
+D:\ASP.Net\Angular\Angular API\employee\Employee.Model\obj\Debug\net7.0\Employee.Model.csproj.AssemblyReference.cache
+D:\ASP.Net\Angular\Angular API\employee\Employee.Model\obj\Debug\net7.0\Employee.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.Net\Angular\Angular API\employee\Employee.Model\obj\Debug\net7.0\Employee.Model.AssemblyInfoInputs.cache
+D:\ASP.Net\Angular\Angular API\employee\Employee.Model\obj\Debug\net7.0\Employee.Model.AssemblyInfo.cs
+D:\ASP.Net\Angular\Angular API\employee\Employee.Model\obj\Debug\net7.0\Employee.Model.csproj.CoreCompileInputs.cache
+D:\ASP.Net\Angular\Angular API\employee\Employee.Model\obj\Debug\net7.0\Employee.Model.csproj.CopyComplete
+D:\ASP.Net\Angular\Angular API\employee\Employee.Model\obj\Debug\net7.0\Employee.Model.dll
+D:\ASP.Net\Angular\Angular API\employee\Employee.Model\obj\Debug\net7.0\refint\Employee.Model.dll
+D:\ASP.Net\Angular\Angular API\employee\Employee.Model\obj\Debug\net7.0\Employee.Model.pdb
+D:\ASP.Net\Angular\Angular API\employee\Employee.Model\obj\Debug\net7.0\ref\Employee.Model.dll
+D:\ASP.Net\Angular\Angular API\employee\Employee.Model\bin\Debug\net7.0\Employee.Service.Model.dll
+D:\ASP.Net\Angular\Angular API\employee\Employee.Model\bin\Debug\net7.0\Employee.Service.Model.pdb
+D:\ASP.Net\Clean Architecture\employee\employee\Employee.Model\bin\Debug\net7.0\Employee.Model.deps.json
+D:\ASP.Net\Clean Architecture\employee\employee\Employee.Model\bin\Debug\net7.0\Employee.Model.dll
+D:\ASP.Net\Clean Architecture\employee\employee\Employee.Model\bin\Debug\net7.0\Employee.Model.pdb
+D:\ASP.Net\Clean Architecture\employee\employee\Employee.Model\bin\Debug\net7.0\Employee.Service.Model.dll
+D:\ASP.Net\Clean Architecture\employee\employee\Employee.Model\bin\Debug\net7.0\Employee.Shared.dll
+D:\ASP.Net\Clean Architecture\employee\employee\Employee.Model\bin\Debug\net7.0\Employee.Service.Model.pdb
+D:\ASP.Net\Clean Architecture\employee\employee\Employee.Model\bin\Debug\net7.0\Employee.Shared.pdb
+D:\ASP.Net\Clean Architecture\employee\employee\Employee.Model\obj\Debug\net7.0\Employee.Model.csproj.AssemblyReference.cache
+D:\ASP.Net\Clean Architecture\employee\employee\Employee.Model\obj\Debug\net7.0\Employee.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.Net\Clean Architecture\employee\employee\Employee.Model\obj\Debug\net7.0\Employee.Model.AssemblyInfoInputs.cache
+D:\ASP.Net\Clean Architecture\employee\employee\Employee.Model\obj\Debug\net7.0\Employee.Model.AssemblyInfo.cs
+D:\ASP.Net\Clean Architecture\employee\employee\Employee.Model\obj\Debug\net7.0\Employee.Model.csproj.CoreCompileInputs.cache
+D:\ASP.Net\Clean Architecture\employee\employee\Employee.Model\obj\Debug\net7.0\Employee.Model.csproj.CopyComplete
+D:\ASP.Net\Clean Architecture\employee\employee\Employee.Model\obj\Debug\net7.0\Employee.Model.dll
+D:\ASP.Net\Clean Architecture\employee\employee\Employee.Model\obj\Debug\net7.0\refint\Employee.Model.dll
+D:\ASP.Net\Clean Architecture\employee\employee\Employee.Model\obj\Debug\net7.0\Employee.Model.pdb
+D:\ASP.Net\Clean Architecture\employee\employee\Employee.Model\obj\Debug\net7.0\ref\Employee.Model.dll
+C:\Users\USSL\Downloads\employee\employee\Employee.Model\bin\Debug\net7.0\Employee.Model.deps.json
+C:\Users\USSL\Downloads\employee\employee\Employee.Model\bin\Debug\net7.0\Employee.Model.dll
+C:\Users\USSL\Downloads\employee\employee\Employee.Model\bin\Debug\net7.0\Employee.Model.pdb
+C:\Users\USSL\Downloads\employee\employee\Employee.Model\bin\Debug\net7.0\Employee.Service.Model.dll
+C:\Users\USSL\Downloads\employee\employee\Employee.Model\bin\Debug\net7.0\Employee.Shared.dll
+C:\Users\USSL\Downloads\employee\employee\Employee.Model\bin\Debug\net7.0\Employee.Service.Model.pdb
+C:\Users\USSL\Downloads\employee\employee\Employee.Model\bin\Debug\net7.0\Employee.Shared.pdb
+C:\Users\USSL\Downloads\employee\employee\Employee.Model\obj\Debug\net7.0\Employee.Model.csproj.AssemblyReference.cache
+C:\Users\USSL\Downloads\employee\employee\Employee.Model\obj\Debug\net7.0\Employee.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USSL\Downloads\employee\employee\Employee.Model\obj\Debug\net7.0\Employee.Model.AssemblyInfoInputs.cache
+C:\Users\USSL\Downloads\employee\employee\Employee.Model\obj\Debug\net7.0\Employee.Model.AssemblyInfo.cs
+C:\Users\USSL\Downloads\employee\employee\Employee.Model\obj\Debug\net7.0\Employee.Model.csproj.CoreCompileInputs.cache
+C:\Users\USSL\Downloads\employee\employee\Employee.Model\obj\Debug\net7.0\Employee.Model.csproj.CopyComplete
+C:\Users\USSL\Downloads\employee\employee\Employee.Model\obj\Debug\net7.0\Employee.Model.dll
+C:\Users\USSL\Downloads\employee\employee\Employee.Model\obj\Debug\net7.0\refint\Employee.Model.dll
+C:\Users\USSL\Downloads\employee\employee\Employee.Model\obj\Debug\net7.0\Employee.Model.pdb
+C:\Users\USSL\Downloads\employee\employee\Employee.Model\obj\Debug\net7.0\ref\Employee.Model.dll
+D:\Project\Employee\Employee.Model\bin\Debug\net7.0\Employee.Model.deps.json
+D:\Project\Employee\Employee.Model\bin\Debug\net7.0\Employee.Model.dll
+D:\Project\Employee\Employee.Model\bin\Debug\net7.0\Employee.Model.pdb
+D:\Project\Employee\Employee.Model\bin\Debug\net7.0\Employee.Service.Model.dll
+D:\Project\Employee\Employee.Model\bin\Debug\net7.0\Employee.Shared.dll
+D:\Project\Employee\Employee.Model\bin\Debug\net7.0\Employee.Service.Model.pdb
+D:\Project\Employee\Employee.Model\bin\Debug\net7.0\Employee.Shared.pdb
+D:\Project\Employee\Employee.Model\obj\Debug\net7.0\Employee.Model.csproj.AssemblyReference.cache
+D:\Project\Employee\Employee.Model\obj\Debug\net7.0\Employee.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Employee\Employee.Model\obj\Debug\net7.0\Employee.Model.AssemblyInfoInputs.cache
+D:\Project\Employee\Employee.Model\obj\Debug\net7.0\Employee.Model.AssemblyInfo.cs
+D:\Project\Employee\Employee.Model\obj\Debug\net7.0\Employee.Model.csproj.CoreCompileInputs.cache
+D:\Project\Employee\Employee.Model\obj\Debug\net7.0\Employee.Model.csproj.CopyComplete
+D:\Project\Employee\Employee.Model\obj\Debug\net7.0\Employee.Model.dll
+D:\Project\Employee\Employee.Model\obj\Debug\net7.0\refint\Employee.Model.dll
+D:\Project\Employee\Employee.Model\obj\Debug\net7.0\Employee.Model.pdb
+D:\Project\Employee\Employee.Model\obj\Debug\net7.0\ref\Employee.Model.dll

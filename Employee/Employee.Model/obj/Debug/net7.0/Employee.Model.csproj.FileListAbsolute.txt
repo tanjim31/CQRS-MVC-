@@ -1,0 +1,15 @@
+D:\project\Employee\Employee.Model\bin\Debug\net7.0\Employee.Model.deps.json
+D:\project\Employee\Employee.Model\bin\Debug\net7.0\Employee.Model.dll
+D:\project\Employee\Employee.Model\bin\Debug\net7.0\Employee.Model.pdb
+D:\project\Employee\Employee.Model\bin\Debug\net7.0\Employee.Shared.dll
+D:\project\Employee\Employee.Model\bin\Debug\net7.0\Employee.Shared.pdb
+D:\project\Employee\Employee.Model\obj\Debug\net7.0\Employee.Model.csproj.AssemblyReference.cache
+D:\project\Employee\Employee.Model\obj\Debug\net7.0\Employee.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\Employee\Employee.Model\obj\Debug\net7.0\Employee.Model.AssemblyInfoInputs.cache
+D:\project\Employee\Employee.Model\obj\Debug\net7.0\Employee.Model.AssemblyInfo.cs
+D:\project\Employee\Employee.Model\obj\Debug\net7.0\Employee.Model.csproj.CoreCompileInputs.cache
+D:\project\Employee\Employee.Model\obj\Debug\net7.0\Employee.Model.csproj.CopyComplete
+D:\project\Employee\Employee.Model\obj\Debug\net7.0\Employee.Model.dll
+D:\project\Employee\Employee.Model\obj\Debug\net7.0\refint\Employee.Model.dll
+D:\project\Employee\Employee.Model\obj\Debug\net7.0\Employee.Model.pdb
+D:\project\Employee\Employee.Model\obj\Debug\net7.0\ref\Employee.Model.dll
