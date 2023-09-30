@@ -382,3 +382,10 @@ D:\Project\Employee\Employee.BackEnd\obj\Debug\net7.0\refint\Employee.BackEnd.dl
 D:\Project\Employee\Employee.BackEnd\obj\Debug\net7.0\Employee.BackEnd.pdb
 D:\Project\Employee\Employee.BackEnd\obj\Debug\net7.0\Employee.BackEnd.genruntimeconfig.cache
 D:\Project\Employee\Employee.BackEnd\obj\Debug\net7.0\ref\Employee.BackEnd.dll
+D:\Project\Employee\Employee.BackEnd\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Project\Employee\Employee.BackEnd\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Project\Employee\Employee.BackEnd\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Project\Employee\Employee.BackEnd\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\Project\Employee\Employee.BackEnd\bin\Debug\net7.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\Project\Employee\Employee.BackEnd\bin\Debug\net7.0\Swashbuckle.AspNetCore.Newtonsoft.dll
+D:\Project\Employee\Employee.BackEnd\bin\Debug\net7.0\Swashbuckle.AspNetCore.ReDoc.dll
