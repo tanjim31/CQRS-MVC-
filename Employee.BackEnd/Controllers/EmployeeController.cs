@@ -37,7 +37,7 @@ public class EmployeeController : APIControllerBase
     {
         return await HandleCommandAsync(new UpdateEmployeeCommand(id, employee));
     }
-    [HttpDelete]
+    [HttpDelete("{id:int}")]
     public async Task<ActionResult<VMEmployee>> DeleteEmployee(int id)
     {
         return await HandleCommandAsync(new DeleteEmployeeCommand(id));

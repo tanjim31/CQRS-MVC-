@@ -47,19 +47,52 @@ public class EmployeeController : Controller
         else
         {
             //Get By Id
-            var data = await _httpClient.GetAsync($"Country/{Id}");
+            var data = await _httpClient.GetAsync($"Employee/{Id}");
             if (data.IsSuccessStatusCode)
             {
                 var result = await data.Content.ReadFromJsonAsync<Employeest>();
                 return View(result);
             }
         }
-        return View(new Country());
+        return View(new Employeest());
 
 
     }
 
-    
+    [HttpPost]
+    [AutoValidateAntiforgeryToken]
+    public async Task<IActionResult> AddOrEdit(int Id, Employeest employee)
+    {
+        if (ModelState.IsValid)
+        {
+            if (Id == 0) //id==0
+            {
+                var result = await _httpClient.PostAsJsonAsync("Employee", employee);
+                if (result.IsSuccessStatusCode) return RedirectToAction("Index");
+            }
+            else
+            {
+                var result = await _httpClient.PutAsJsonAsync($"Employee/{Id}", employee);
+                if (result.IsSuccessStatusCode) return RedirectToAction("Index");
+            }
+        }
+        return View(new Employeest());
+    }
+
+    public async Task<IActionResult> Delete(int Id)
+    {
+        var data = await _httpClient.DeleteAsync($"Employee/{Id}");
+        if (data.IsSuccessStatusCode)
+        {
+            return RedirectToAction("Index");
+        }
+        else
+        {
+            return NotFound();
+        }
+    }
+
+
 
 
 

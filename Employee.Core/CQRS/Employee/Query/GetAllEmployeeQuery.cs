@@ -23,7 +23,7 @@ namespace Employee.Core.CQRS.Employee.Query
         }
         public async Task<QueryResult<IEnumerable<VMEmployee>>> Handle(GetAllEmployeeQuery request, CancellationToken cancellationToken)
         {
-            var employee = await _employeeRepository.GetAllAsync();
+            var employee = await _employeeRepository.GetAllAsync(x => x.Country, x=>x.State);
 
             return employee switch
             {

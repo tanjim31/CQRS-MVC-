@@ -40,6 +40,8 @@ namespace Employee.Service.Model
         public int CountryId { get; set; }
 
         public int StateId { get; set; }
+        public string? CountryName { get; set; }  //For using countryname on frontend
+        public string? StateName { get; set; }  //For using countryname on frontend
 
 
 

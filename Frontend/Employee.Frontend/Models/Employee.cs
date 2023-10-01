@@ -39,6 +39,8 @@ public class Employeest
     /// </summary>
 
     public int StateId { get; set; }
+    public string? CountryName { get; set; }
+    public string? StateName { get; set; }
 
 
 
