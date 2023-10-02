@@ -1,12 +1,29 @@
 ﻿@model Employee.Frontend.Models.Employeest
 
 @{
-    ViewData["Title"] = "AddOrEdit";
+    //ViewData["Title"] = "AddOrEdit";
+    if (ViewBag.ButtonText == "Save")
+    {
+        ViewData["Title"] = "Edit-" + Model.FirstName;
+    }
+    else
+    {
+        ViewData["Title"] = "Create Employee";
+    }
 }
 
-<h1>AddOrEdit</h1>
+@if (ViewBag.ButtonText == "Save")
+{
+    <h1>Edit Info of @Model.FirstName</h1>
+}
+else
+{
+    <h1>Create New Employee</h1>
+}
 
-<h4>Employeest</h4>
+@*<h1>AddOrEdit</h1>
+
+<h4>Employeest</h4>*@
 <hr />
 <div class="row">
     <div class="col-md-4">
@@ -57,7 +74,7 @@
                 </div>
             </div>
             <div class="form-group">
-                <input type="submit" value="Create" class="btn btn-primary" />
+                <input type="submit" value="@ViewBag.ButtonTex" class="btn btn-primary" />
             </div>
         </form>
     </div>

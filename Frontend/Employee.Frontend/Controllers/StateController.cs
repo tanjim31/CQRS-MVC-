@@ -33,7 +33,7 @@ namespace Employee.Frontend.Controllers
             if (Id == 0)
             {
                 //Create Form
-                ViewBag.ButtonText = "Create";  //for Create Page
+                ViewBag.ButtonText = "Create";  //for showing indicate message on frontend view
                 return View(new State());
 
             }
@@ -45,7 +45,7 @@ namespace Employee.Frontend.Controllers
                 if (data.IsSuccessStatusCode)
                 {
                     var result = await data.Content.ReadFromJsonAsync<State>();
-                    ViewBag.ButtonText = "Save"; //for Create Page
+                    ViewBag.ButtonText = "Save"; //for showing indicate message on frontend view
                     return View(result);
                 }
             }

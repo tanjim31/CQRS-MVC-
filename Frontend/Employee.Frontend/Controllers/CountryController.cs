@@ -19,6 +19,7 @@ public class CountryController : Controller
     {
         if(Id == 0)
         {
+            ViewBag.ButtonText = "Create";  //for showing indicate message on frontend view
             //Create Form
             return View(new Country());
         }
@@ -29,6 +30,7 @@ public class CountryController : Controller
             if (data.IsSuccessStatusCode)
             {
                 var result = await data.Content.ReadFromJsonAsync<Country>();
+                ViewBag.ButtonText = "Save"; //for showing indicate message on frontend view
                 return View(result);
             }
         }
@@ -43,13 +45,26 @@ public class CountryController : Controller
         {
             if(Id ==0) //id==0
             {
+               
                 var result = await _httpClient.PostAsJsonAsync("Country", country);
-                if(result.IsSuccessStatusCode) return RedirectToAction("Index");
+              
+
+                if (result.IsSuccessStatusCode)
+                {
+                   
+                    return RedirectToAction("Index");
+                }
             }
             else
             {
+               
                 var result = await _httpClient.PutAsJsonAsync($"Country/{Id}", country);
-                if (result.IsSuccessStatusCode) return RedirectToAction("Index");
+
+                if (result.IsSuccessStatusCode)
+                {
+                  
+                    return RedirectToAction("Index");
+                }
             }
         }
         return View(new Country());

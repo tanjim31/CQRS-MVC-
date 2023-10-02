@@ -42,6 +42,7 @@ public class EmployeeController : Controller
         if (Id == 0)
         {
             //Create Form
+            ViewBag.ButtonText = "Create";  //for showing indicate message on frontend view
             return View(new Employeest());
         }
         else
@@ -51,6 +52,7 @@ public class EmployeeController : Controller
             if (data.IsSuccessStatusCode)
             {
                 var result = await data.Content.ReadFromJsonAsync<Employeest>();
+                ViewBag.ButtonText = "Save"; //for showing indicate message on frontend view
                 return View(result);
             }
         }

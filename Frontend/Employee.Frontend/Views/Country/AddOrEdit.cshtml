@@ -1,12 +1,28 @@
 ﻿@model Employee.Frontend.Models.Country
 
 @{
-    ViewData["Title"] = "AddOrEdit";
+    //ViewData["Title"] = "AddOrEdit";
+    if (ViewBag.ButtonText == "Save")
+    {
+        ViewData["Title"] = "Edit-" + Model.CountryName;
+    }
+    else
+    {
+        ViewData["Title"] = "Create Country";
+    }
 }
-
+@if (ViewBag.ButtonText == "Save")
+{
+    <h1>Edit Info of @Model.CountryName</h1>
+}
+else
+{
+    <h1>Create New Country</h1>
+}
+@*
 <h1>AddOrEdit</h1>
 
-<h4>Country</h4>
+<h4>Country</h4>*@
 <hr />
 <div class="row">
     <div class="col-md-4">
